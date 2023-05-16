@@ -71,27 +71,35 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 
 data.head():
+
 <img width="875" alt="ex6 op1" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127508123/4e3fa42d-7411-45c0-ae6e-0f51fca6bd40">
 
 data.info():
+
 <img width="490" alt="ex6 op2" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127508123/0eadd4f1-d1ab-4e23-8817-ba8bc09e7397">
 
 isnull() and sum():
+
 <img width="379" alt="ex6 op3" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127508123/433027bf-0637-42dd-bcc6-39e933228989">
 
 data value counts():
+
 <img width="298" alt="ex6 op4" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127508123/82756c5f-d592-434e-90db-bfad99d75346">
 
 data.head() for salary:
+
 <img width="865" alt="ex6 op5" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127508123/4cdcd3df-c390-4e94-9b9d-e401a72e43d8">
 
 x.head():
+
 <img width="852" alt="ex6 op6" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127508123/f73e9082-3b1a-42a5-ac9f-ca4a99543107">
 
 Accuracy value:
+
 <img width="352" alt="ex6 op7" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127508123/8784663d-ba90-4a6f-b1c3-40a3ac90e782">
 
 data prediction:
+
 <img width="892" alt="ex6 op8" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127508123/de4025ae-7830-49b0-a307-a78bbf2e488e">
 
 
